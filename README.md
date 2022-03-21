@@ -33,7 +33,7 @@ npm install
 
 Usando Yarn
 ```bash
-npm install 
+yarn
 ```
 ## Rodando o projeto localmente
 
