@@ -18,7 +18,7 @@ e uma IDE de sua preferencia (VSCode como sugestão)
 
 #### Clonando o projeto
 ```bash
-git clone 
+git clone https://github.com/ghcordeiro/tech-summer-camp-iniciante.git
 ```
 
 #### Instalação de dependencias
